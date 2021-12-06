@@ -20,7 +20,7 @@ To use the command line just type:
 ```shell
 dotnet test .
 ```
-
+change
 This will run both the Unit Tests and the Integration Tests
 
 > Please note that the __Integration Tests__ require the Database to be available
